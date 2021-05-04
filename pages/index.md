@@ -1,7 +1,6 @@
-![CiS Training Systems](../public/images/cis-logo.gif)
+# CiS Training Systems
 
-## May Challenge
-![May Challenge](../public/images/may-challenge-2020.jpg)
+## [May Challenge](./images/may-challenge-2020.jpg)
 
 ## Week 1: Two Bridges Loop - Prologue
 - Complete 1 lap of the [Two Bridges Loop](https://zwiftinsider.com/route/two-bridges-loop/)
@@ -28,7 +27,8 @@
 - Finish at the Start/Finish Banner
 
 ## Rules of Engagement
-1.[ Trainer Difficulty at 100% (Honors Code)](https://www.zwift.com/video/how-to-cycling/adjust-smart-trainer-difficulty)
+
+1. [ Trainer Difficulty at 100% (Honors Code)](https://www.zwift.com/video/how-to-cycling/adjust-smart-trainer-difficulty)
 2. Each individual team challenge member must complete the challenge by 9pm EST Tuesday of that day.
 3. No meetups Permitted!
 4. All times completed will be calculated towards the overall team goal. Make it Happen!
@@ -51,18 +51,17 @@ Label Examples:
 - [Zwift Powerups](https://zwiftinsider.com/powerups/)
 
 ## FAQ
-> Is this a race?
-
+#### Is this a race?
 This is not a race, this is just a workout based on your current level of fitness. Focus on your training and what you have learned so far.
 
-> Do I need a working heart rate meter?
+#### Do I need a working heart rate meter?
 
 See Rules of Engagment item #7
 
-> Do I have multiple attempts to do the challenge?
+#### Do I have multiple attempts to do the challenge?
 
 No, you have one attempt only.
 
-> Can I recon the route before hand?
+#### Can I recon the route before hand?
 
 Yes you are allowed to ride the route before your attempt.
